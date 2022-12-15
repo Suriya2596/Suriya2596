@@ -1,9 +1,11 @@
 👲 About
 - 👋 Hi, I’m Suriya
 - 👀 I’m interested in MERN stack developer 
-- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 contact number : 91+ 9080866066
+- 📑 I'm Enthusiastic✨ MERN stack developer with 1.6 years of UI/UX Engineer experience in creating a responsive web design for e-commerce platforms.
+      Learned MERN Stack in-depth,✨ certified by DCT Academy. I am very interested to work in✨ MERN Stack projects
+- 📫 Email : suriyajagan25@gmail.com
+- 📱 contact number : 91+ 9080866066 
 
 💻 Techincal Skills
 - Program Languages : Javascript - ES5 , ES6 ,
