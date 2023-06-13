@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Suriya
 - ⚡ I'm Enthusiastic✨ MERN stack developer with experience in creating a responsive web using React JS and Next JS
 - 📫 Email : suriyajagan25@gmail.com
-- 📱  contact number : 91+ 9080866066 
+- 📱  contact number : +91 9080866066 
 
 💻 Techincal Skills
 - Program Languages : Javascript - ES5 | ES6
