@@ -1,9 +1,6 @@
 👲 About
 - 👋 Hi, I’m Suriya
-- 👀 I’m interested in MERN stack developer 
-- 💞️ I’m looking to collaborate on ...
-- ⚡ I'm Enthusiastic✨ MERN stack developer with experience in creating a responsive web using React JS and Next JS.
-- 📑 Learned MERN Stack in-depth,✨ certified by DCT Academy. I am very interested to work in✨ MERN Stack projects.
+- ⚡ I'm Enthusiastic✨ MERN stack developer with experience in creating a responsive web using React JS and Next JS
 - 📫 Email : suriyajagan25@gmail.com
 - 📱  contact number : 91+ 9080866066 
 
