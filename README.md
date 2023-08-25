@@ -1,6 +1,6 @@
 👲 About
 - 👋 Hi, I’m Suriya
-- ⚡ I'm an Enthusiastic✨ MERN stack developer with experience in creating a responsive web using React JS and Next JS
+- ⚡ I’ve extensively explored the MERN stack, refining my skills to adeptly craft software applications. I specialize in building responsive apps and seamlessly linking API calls using ReactJS and Redux.
 - 📫 Email : suriyajagan25@gmail.com
 - 📱  contact number: +91 9080866066 
 
