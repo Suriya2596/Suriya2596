@@ -2,7 +2,8 @@
 - 👋 Hi, I’m Suriya
 - ⚡ I’ve extensively explored the MERN stack, refining my skills to adeptly craft software applications. I specialize in building responsive apps and seamlessly linking API calls using ReactJS and Redux.
 - 📫 Email : suriyajagan25@gmail.com
-- 📱  contact number: +91 9080866066 
+- 📱 contact number: +91 9080866066
+- 👀 website : https://suriya.vercel.app/ 
 
 💻 Techincal Skills
 - Program Languages: Javascript - ES5 | ES6
